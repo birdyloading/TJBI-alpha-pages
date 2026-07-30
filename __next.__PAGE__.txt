@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[9192,["592","static/chunks/c15bf2b0-f76613f9ef9aefe2.js","772","static/chunks/772-68d9da67a98f6ba3.js","500","static/chunks/500-e9eb3df545e56136.js","638","static/chunks/638-758137ad8c83d086.js","974","static/chunks/app/page-f680b8f4d1e236fe.js"],"SkyWorld"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/TJBI-alpha-pages/_next/static/css/6f56edf22a4c9930.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/TJBI-alpha-pages/_next/static/css/6f56edf22a4c9930.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"exnNu3e2ovFlHsOf_pRXs"}
+5:null

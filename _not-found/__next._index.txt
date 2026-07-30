@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[9195,["177","static/chunks/app/layout-71e6442b34fde951.js"],"LanguageProvider"]
+3:I[7121,[],""]
+4:I[4581,[],""]
+:HL["/TJBI-alpha-pages/_next/static/css/7a3327c4ab98fe3e.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/TJBI-alpha-pages/_next/static/css/7a3327c4ab98fe3e.css","precedence":"next"}]],["$","html",null,{"className":"h-full","data-scroll-behavior":"smooth","lang":"zh-Hant","children":["$","body",null,{"className":"min-h-full","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"exnNu3e2ovFlHsOf_pRXs"}
